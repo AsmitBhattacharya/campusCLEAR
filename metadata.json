@@ -1,0 +1,8 @@
+{
+  "name": "CampusCLEAR",
+  "description": "A comprehensive social-media-cum-placement-prep app for college students featuring AI-powered resume reviews, mock interviews, and placement intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
