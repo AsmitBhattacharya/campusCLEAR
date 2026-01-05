@@ -1,20 +1,24 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="auto" alt="campusCLEAR Banner" src="project%20banner.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# campusCLEAR 🎓🚀
 
-This contains everything you need to run your app locally.
+**The ultimate social-media-cum-placement-prep platform for college campuses.**
 
-View your app in AI Studio: https://ai.studio/apps/drive/1sSUrWegcQ3QuqdJ_tbJYSOpLMWRInU1m
+## 📌 Overview
+campusCLEAR is a Google-powered ecosystem that democratizes campus recruitment by combining crowdsourced company insights with **Gemini AI** for resume auditing and mock interviews. The platform gamifies the preparation journey using a Firebase-backed streak and leaderboard system, ensuring every student has the transparency and tools needed to land their dream job.
 
 ## Run Locally
 
-**Prerequisites:**  Node.js
+**Prerequisites:** Node.js
 
-
-1. Install dependencies:
+1. **Install dependencies:**
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+2. **Set the API Key:**
+   Open [.env.local](.env.local) and set your `GEMINI_API_KEY`.
+3. **Run the app:**
    `npm run dev`
+
+---
+*Note: This project was built using Google AI Studio and is submitted for the GDG Openverse Hackathon.*
